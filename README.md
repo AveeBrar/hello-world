@@ -1,2 +1,5 @@
 # hello-world
-First time
+
+First time doing this
+
+I like to try new things, explore the outdoors, and have fun
